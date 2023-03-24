@@ -5,11 +5,13 @@ nav_order: 1
 permalink: /
 ---
 
-### The Cairn Hackening!
+# The Cairn Hackening!
+
+### This is not Cairn
 
 The CairnHackening is the working title for an upcoming Cairn hack by Andrew Duvall, aka @duvelmandice.
 
-[![Alt text](/img/duvelmandicebanner.jpg "Click to embiggen"){:height="50%" width="50%"}](/img/duvelmandicebanner.jpg)
+![Alt text](/img/duvelmandicebanner.jpg "Click to embiggen"){:height="50%" width="50%"}
 
 This fork is unaffiliated with Yochai Gal or any of the original team from Cairn
 
