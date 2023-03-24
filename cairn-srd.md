@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SRD
+title: Cairn SRD
 nav_order: 2
 ---
 
