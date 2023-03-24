@@ -11,7 +11,7 @@ permalink: /
 
 The CairnHackening is the working title for an upcoming Cairn hack by Andrew Duvall, aka @duvelmandice.
 
-![DuvelmanDice Logo Banner](../../img/duvelmandicebanner.jpg "Duvelman Dice")
+![](/img/duvelmandicebanner.jpg)
 
 This fork is unaffiliated with Yochai Gal or any of the original team from Cairn
 
