@@ -25,6 +25,6 @@ This is a game that values community contributions! If you'd like to submit an a
 
 <p></p>
 
-```
+
 [![Alt text](/img/cairn.svg "Click to embiggen"){:height="50%" width="50%"}](/img/cairn.svg)
-```
+
