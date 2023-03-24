@@ -11,11 +11,11 @@ permalink: /
 
 The CairnHackening is the working title for an upcoming Cairn hack by Andrew Duvall, aka @duvelmandice.
 
-![](/img/duvelmandicebanner.jpg)
+![](/img/duvelmandicelogo.jpg)
 
 This fork is unaffiliated with Yochai Gal or any of the original team from Cairn
 
-##### Original Text
+## Original Text
 
 Cairn is an [adventure game](http://questingblog.com/adventure-game-vs-osr) about exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Character generation is quick and random, classless, and relies on fictional advancement rather than through XP or level mechanics. It is based on [Knave](https://www.drivethrurpg.com/product/250888/Knave) by Ben Milton and [Into The Odd](https://chrismcdee.itch.io/electric-bastionland) by Chris McDowall. The game was written by [Yochai Gal](https://newschoolrevolution.com).
 
