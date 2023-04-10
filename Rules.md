@@ -49,8 +49,9 @@ Shields, gauntlets, and helms may provide additional benefits according to their
 
 ### Reactions
 
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:  
-|         |      |         |      |         |
+When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+
+|         |      |         |      |         | 
 |:-------:|:----:|:-------:|:----:|:-------:|
 |    2    | 3-5  |   6-8   | 9-11 |   12    |
 | Hostile | Wary | Curious | Kind | Helpful |
@@ -65,8 +66,10 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 | 6    | Information      | They want information to help achieve their goals or sabotage the goals of their rivals                 |
 | 7    | Help             | They need the party's help to accomplish a goal; Retrieve, kill, clear-out, aid, etc.                   |
 | 8    | Trade            | They have items to trade. Dungeon "economics" are vastly different than those in town                   |
-| 9    | Complete Mission | They are on a mission to achieve a nearby NPC/Faction's goals or wants                                  | 
+| 9    | Complete Mission | They are on a mission to achieve a nearby NPC/Faction's goals or wants                                  |
 | 10   | Directions       | They're lost and need directions or an escort to safety                                                 |
+
+> "What They Want" Source: Sean McCoy, Knock Issue 1, Pg 66
 
 ### Morale
 

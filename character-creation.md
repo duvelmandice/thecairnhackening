@@ -65,6 +65,7 @@ If you would like something closer to traditional classes, refer to the list of 
 ## Name & Background (d20)
 
 #### Female Names
+
 |     |          |     |         |     |          |     |        |
 | --- | -------- | --- | ------- | --- | -------- | --- | ------ |
 | 1   | Agune    | 6   | Drelil  | 11  | Lirann   | 16  | Sybil  |
@@ -74,6 +75,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 5   | Cannora  | 10  | Henaine | 15  | Morgwen  | 20  | Yslen  |
 
 #### Male Names
+
 |     |         |     |           |     |         |     |          |
 | --- | ------- | --- | --------- | --- | ------- | --- | -------- |
 | 1   | Arwel   | 6   | Breglor   | 11  | Grinwit | 16  | Melnax   |
@@ -83,6 +85,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 5   | Breagle | 10  | Gringle   | 15  | Mannog  | 20  | Yirmeor  |
 
 #### Surnames
+
 |     |            |     |            |     |           |     |          |
 | --- | ---------- | --- | ---------- | --- | --------- | --- | -------- |
 | 1   | Abernathy  | 6   | Crumwaller | 11  | Harper    | 16  | Swinney  |
@@ -92,19 +95,21 @@ If you would like something closer to traditional classes, refer to the list of 
 | 5   | Cormick    | 10  | Harkness   | 15  | Sunderman | 20  | Wolder   |
 
 #### Background
+
 |     |            |     |             |     |           |     |            |
 | --- | ---------- | --- | ----------- | --- | --------- | --- | ---------- |
 | 1   | Alchemist  | 6   | Cleric      | 11  | Magician  | 16  | Performer  |
 | 2   | Blacksmith | 7   | Gambler     | 12  | Mercenary | 17  | Pickpocket |
 | 3   | Burglar    | 8   | Gravedigger | 13  | Merchant  | 18  | Smuggler   |
 | 4   | Butcher    | 9   | Herbalist   | 14  | Miner     | 19  | Servant    |
-| 5   | Carpenter  | 10  | Hunter      | 15  | Outlaw    | 20  | Ranger     |
+| 5   | Carpenter  | 10  | Hunter      | 15  | Outlaw    | 20  | Ranger     | 
 
 <p></p>
 
 ## Character Traits (d10)
 
 #### Physique
+
 |     |          |     |            |
 | --- | -------- | --- | ---------- |
 | 1   | Athletic | 6   | Scrawny    |
@@ -114,6 +119,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 5   | Rugged   | 10  | Towering   |
 
 #### Skin
+
 |     |            |     |           |
 | --- | ---------- | --- | --------- |
 | 1   | Birthmark  | 6   | Round     |
@@ -123,6 +129,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 5   | Rosy       | 10  | Weathered |
 
 #### Hair
+
 |     |         |     |           |
 | --- | ------- | --- | --------- |
 | 1   | Bald    | 6   | Long      |
@@ -132,6 +139,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 5   | Frizzy  | 10  | Wispy     |
 
 #### Face
+
 |     |           |     |          |
 | --- | --------- | --- | -------- |
 | 1   | Bony      | 6   | Perfect  |
@@ -141,6 +149,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 5   | Pale      | 10  | Sunken   |
 
 #### Speech
+
 |     |         |     |            |
 | --- | ------- | --- | ---------- |
 | 1   | Blunt   | 6   | Gravelly   |
@@ -150,6 +159,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 5   | Formal  | 10  | Whispery   |
 
 #### Clothing
+
 |     |         |     |        |
 | --- | ------- | --- | ------ |
 | 1   | Antique | 6   | Frayed |
@@ -159,6 +169,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 5   | Foreign | 10  | Soiled |
 
 #### Virtue
+
 |  |             |      |           |
 | ------ | ----------- | ---- | --------- |
 | 1      | Ambitious   | 6    | Honorable |
@@ -168,6 +179,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 5      | Gregarious  | 10   | Tolerant  |
 
 #### Vice
+
 |     |            |     |          |
 | --- | ---------- | --- | -------- |
 | 1   | Aggressive | 6   | Lazy     |
@@ -177,6 +189,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 5   | Greedy     | 10  | Vengeful |
 
 #### Reputation
+
 |     |             |     |           |
 | --- | ----------- | --- | --------- |
 | 1   | Ambitious   | 6   | Loafer    |
@@ -186,6 +199,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 5   | Honest      | 10  | Wise      |
 
 #### Misfortunes
+
 |     |             |     |             |
 | --- | ----------- | --- | ----------- |
 | 1   | Abandoned   | 6   | Defrauded   |
@@ -198,26 +212,29 @@ If you would like something closer to traditional classes, refer to the list of 
 ## Starting Gear (d20)
 
 #### Armor
+
 |      |            |           |       |
 |:----:|:----------:|:---------:|:-----:|
 | 1-3  |    4-14    |   15-19   |  20   |
 | None | Brigandine | Chainmail | Plate |
 
-  
 
 #### Helmets & Shields
+
 |      |        |        |                 |
 |:----:|:------:|:------:|:---------------:|
 | 1-13 | 14-16  | 17-19  |       20        |
 | None | Helmet | Shield | Helmet & Shield |
 
 #### Weapons
+
 |                       |                  |                      |                                |
 |:---------------------:|:----------------:|:--------------------:|:------------------------------:|
 |          1-5          |       6-14       |        15-19         |               20               |
 | Dagger, Cudgel, Staff | Sword, Mace, Axe | Bow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
 
 #### Expeditionary Gear
+
 |     |                        |     |                |     |             |     |             |
 | --- | ---------------------- | --- | -------------- | --- | ----------- | --- | ----------- |
 | 1   | Air Bladder            | 6   | Fire Oil       | 11  | Manacles    | 16  | Rope (25ft) |
@@ -227,6 +244,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 5   | Dowsing Rod            | 10  | Lockpicks      | 15  | Repellent   | 20  | Wolfsbane   |
 
 #### Tools
+
 |     |          |     |                |     |            |     |         |
 | --- | -------- | --- | -------------- | --- | ---------- | --- | ------- |
 | 1   | Bellows  | 6   | Cook Pots      | 11  | Grease     | 16  | Net     |
@@ -236,6 +254,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 5   | Chisel   | 10  | Glue           | 15  | Nails      | 20  | Tongs   |
 
 #### Trinkets
+
 |     |             |     |            |     |             |     |         |
 | --- | ----------- | --- | ---------- | --- | ----------- | --- | ------- |
 | 1   | Bottle      | 6   | Horn       | 11  | Mirror      | 16  | Soap    |
@@ -245,6 +264,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 5   | Fake Jewels | 10  | Marbles    | 15  | Small Bell  | 20  | Whistle |
 
 #### Bonus Item (roll on table indicated)
+
 |                  |                    |                 |           |
 | :--------------: | :----------------: | :-------------: | :-------: |
 |       1-5        |        6-13        |      14-17      |   18-20   |
@@ -285,6 +305,7 @@ If you would like something closer to traditional classes, refer to the list of 
 ## Equipment List (Prices in Gold Pieces)  
 
 #### Armor
+
 |                             |     |
 | --------------------------- | --- |
 | Shield (+1 Armor)           | 10  |
@@ -295,6 +316,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | Plate (3 Armor, bulky)      | 60  |
 
 #### Weapons
+
 |                                                            |     |
 | ---------------------------------------------------------- | --- |
 | Dagger, Cudgel, Sickle,  Staff, etc. (d6  damage)          | 5   |
