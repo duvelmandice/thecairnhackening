@@ -1,5 +1,5 @@
 ---
-title: Duvelman Dice
-nav_order: 7
+title: Duvelman Dice Carrd
+ 
 redirect_to: https://duvelmandice.carrd.co
 ---

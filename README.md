@@ -9,7 +9,7 @@ permalink: /
 
 The CairnHackening is the working title for an upcoming Cairn hack by Andrew Duvall, aka @duvelmandice.
 
-![](/img/duvelmandicelogo.jpg)
+![](/img/duvelmandicelogo.png)
 
 
 
