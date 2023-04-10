@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Combat
+nav_order: 6
 tags: publish, cairn-hack, combat, rules
 ---
 ## Combat

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Principles for Wardens
-nav_order: 3
+nav_order: 2
 ---
 ## Principles for Wardens
 
