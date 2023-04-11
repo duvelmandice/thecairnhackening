@@ -3,6 +3,16 @@ layout: default
 title: Character Creation
 nav_order: 5
 ---
+
+<details close markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 ## Character Creation
 
 #### Name, Background & Traits
