@@ -1,5 +1,5 @@
 ---
-title: Duvelman Dice Carrd
+title: Back to Main
  
-redirect_to: https://duvelmandice.carrd.co
+redirect_to: https://duvelmandice.github.io
 ---
