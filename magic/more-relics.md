@@ -5,6 +5,16 @@ title: More Relics
 ---
 
 ### From The NSR Discord
+
+<details close markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 #### Last Breath, shortsword, d8 damage, 1 charge
 - Plunging **Last Breath** into the ground creates an [_Astral Prison_](thecairnhackening/magic/100-spells.md) around the bearer. The bearer is invulnerable to harm but unable to move while contained in the prison.
 - **Recharge**: Last Breath by feeding it the souls it needs to build the prison.
