@@ -52,7 +52,7 @@ The attacker rolls their weapon die and subtracts the target's Armor, then deals
 
 Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.
 
-No one can have more than 3 Armor.
+No one can have more than 3 Armor.  **Splinter shield** to prevent effect of one attack
 
 **Unarmed** attacks always do 1d4 damage. If **multiple attackers** target the same foe, roll all damage dice and keep the single highest result. If attacking with **two weapons** at the same time, roll both damage dice and keep the highest.
 

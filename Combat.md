@@ -90,6 +90,10 @@ If fighting from a position of advantage (such as against a helpless foe or thro
 
 If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
 
+### Shield Splintering 
+
+Players can opt to absorb all damage and effects from an attack in exchange for their shield breaking. [^1]
+
 ### Blast  
 
 Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
@@ -144,6 +148,8 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 | 10  | Sundered: An appendage is torn off, crippled or useless. The Warden will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6.                                                                |
 | 11  | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP.                                                                         |
 | 12  | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
+
+[^1]: -   Adapted from the [Cairn Adventurer’s Guide](https://adamhensley.itch.io/cairn-adventurers-guide) Adam Hensley. This content is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 [back to index](#index)
 

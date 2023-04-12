@@ -1,8 +1,17 @@
 ---
 layout: default
+title: NSR Relics
 parent: Magic
-title: More Relics
 ---
+
+<details close markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ### From The NSR Discord
 #### Last Breath, shortsword, d8 damage, 1 charge

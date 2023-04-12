@@ -1,0 +1,13 @@
+---
+layout: default
+parent: Classic
+grand_parent: Bestiary
+---
+
+# Gelatinous Cube
+
+8 HP, 15 STR, 6 DEX, 3 WIL, devouring touch (d8)
+
+- Large cubes of transparent jelly, dwell in dungeons absorbing items and living creatures.
+- Difficult to be detected due to being transparent.
+- **Critical Damage**: The target is engulfed into the cube and keeps being absorbed.
